@@ -14,7 +14,7 @@
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile />
     <IsWebBootstrapper>false</IsWebBootstrapper>
-    <PublishUrl>G:\apps\CBCopyHelper\</PublishUrl>
+    <PublishUrl>G:\apps\StocklessPNG\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Unc</InstallFrom>
     <UpdateEnabled>false</UpdateEnabled>
@@ -24,7 +24,7 @@
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
-    <InstallUrl>\\SNAP400\Gigs\apps\CBCopyHelper\</InstallUrl>
+    <InstallUrl>\\SNAP400\Gigs\apps\StocklessPNG\</InstallUrl>
     <ProductName>Stockless PNG Font</ProductName>
     <PublisherName>Church Budget Envelope Company</PublisherName>
     <SuiteName>Stockless PNG Font</SuiteName>
